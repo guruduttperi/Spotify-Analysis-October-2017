@@ -65,6 +65,8 @@ sea.heatmap(corr)
 sea.kdeplot(oct_stats.Net_Revenue_in_USD, oct_stats.Gross_Revenue_in_USD)
 
 
-
+# Count plotting to find out which service has most number of plays
+sea.mpl.rc("figure", figsize=(10,6))
+sea.countplot(x='Service', data=oct_stats)
 
 
