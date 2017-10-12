@@ -24,7 +24,7 @@ Similarly, I did a Countplot for my artist profiles' popularity.
 ![Artists](Artists.png)
 
 I had obtained results from another Countplot for various services - Spotify, Apple Music and Google Play Music.
-![Services](Services.png)
+![Services](Service.png)
 
 Further, I had made some other plots, too.
 
