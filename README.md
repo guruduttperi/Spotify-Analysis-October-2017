@@ -26,7 +26,4 @@ Similarly, I did a Countplot for my artist profiles' popularity.
 I had obtained results from another Countplot for various services - Spotify, Apple Music and Google Play Music.
 ![Services](Service.png)
 
-Further, I had made some other plots, too.
-
-Correlation: ![Correlation](Correlation.png)
-Histogram:   ![Range](Range.png)
+If you're interested in my findings, you can visit this link: [Article](https://medium.com/@guruduttperi/why-spotify-is-the-1-streaming-platform-for-artists-fc11ce37c4c1)
