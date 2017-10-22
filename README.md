@@ -2,9 +2,11 @@
 
 This is an insight into statistics of my Spotify Artist Accounts.
 
-Links: [Gurudutt Perichetla](https://open.spotify.com/artist/3s5cmywpL5c4WNgPU4KutH)
+Links: 
 
-       [San Atlantis](https://open.spotify.com/artist/4EFol2d4u9HF5tO2vPSdCe)
+1. [Gurudutt Perichetla](https://open.spotify.com/artist/3s5cmywpL5c4WNgPU4KutH)
+
+2. [San Atlantis](https://open.spotify.com/artist/4EFol2d4u9HF5tO2vPSdCe)
 
 Here, I have analyzed information from a statement from my music distributor. The statement is in the form of a comma-separated values file with columns - "Artist", "Country", "Release_Title", to say the least.
 
